@@ -132,6 +132,11 @@ img {
   gap: 0.5rem;
 }
 
+.btn:hover,
+.btn:focus {
+  background: hsl(158, 36%, 20%);
+}
+
 .cart-icon {
   width: 15px;
   height: 16px;
